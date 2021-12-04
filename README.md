@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Build4me
-- 👀 I’m interested in Indepemdent Product Builders
-- 🌱 I’m currently learning Big Data, UX
-- 💞️ I’m looking to collaborate on Business Strategy, Talent Matching
+- 👀 I’m interested in connecting with Remote Indepemdent Product Builders 
+- 🌱 I’m currently looking for talent that can learn, design, code, release, & support
+- 💞️ I’m looking to collaborate on Strategic Consulting, Talent Matching, Co-Creation
 - 📫 How to reach me sourcez@zohomail.com
 
 <!---
