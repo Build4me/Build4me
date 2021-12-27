@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev2biz
 - 👀 I’m interested in Co-Creating, Talent Matching, Go-To-Market, Scaling up
-- 🌱 I’m currently looking for Independent Product Builders that can learn, design, code, release, & support
+- 🌱 I’m currently looking for full-stack Independent Product Builders that can build MVPs and products
 - 💞️ I’m looking to collaborate with Devs that have a prototype and want to Build a business
 - 📫 How to reach me sourcez@zohomail.com
 
