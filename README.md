@@ -2,6 +2,7 @@
 - 👀 I’m interested in Co-Creating, Talent Matching, Go-To-Market, Scaling up
 - 🌱 I’m currently looking for full-stack Independent Product Builders that can build MVPs and products
 - 💞️ I’m looking to collaborate with Devs that have a prototype and want to Build a business
+- ☕️ Rust, Typescript, Python, ML, DS, AI, Martech, Marketplaces, Platforms, SaaS, Ventures
 - 📫 How to reach me sourcez@zohomail.com
 
 <!---
